@@ -2,7 +2,7 @@
 
 ![Selenium](https://img.shields.io/badge/Selenium-Automation-green) ![TestNG](https://img.shields.io/badge/TestNG-Testing-blue) ![Maven](https://img.shields.io/badge/Maven-Build-orange)
 
-Magento Selenium TestNG POM is a test automation framework for Magento applications using **Selenium WebDriver**, **TestNG**, and **Page Object Model (POM)**. This framework is designed for efficient UI testing with structured test cases and easy scalability.
+This project is an automation framework for testing Magento applications using Selenium WebDriver, TestNG, and the Page Object Model (POM) design pattern. The framework ensures efficient and maintainable test automation for web applications.
 
 ---
 
@@ -78,6 +78,12 @@ mvn test -DsuiteXmlFile=testng.xml
 
 - **TestNG Report:** Available in `target/surefire-reports`
 - **Extent Report:** Available in `target/extent-reports`
+
+---
+## 🎯 Future Enhancements
+Add Parallel Execution support
+Integrate with CI/CD pipelines (Jenkins/GitHub Actions)
+Implement Cross-browser testing
 
 ---
 
