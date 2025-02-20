@@ -17,7 +17,7 @@ Magento Selenium TestNG POM is a test automation framework for Magento applicati
 ---
 
 ## 📂 Project Structure
-![Project Structure](https://raw.githubusercontent.com/rahmannazneen/magent-selenium-testng-pom/main/images/project-structure.png)
+
 ```
 magento-selenium-testng-pom/
 ├── src/
@@ -58,7 +58,7 @@ mvn clean install
 ---
 
 ## 🏃 Running Tests
-![Test Execution](https://raw.githubusercontent.com/rahmannazneen/magent-selenium-testng-pom/main/images/test-execution.png)
+
 ### Run all tests:
 ```sh
 mvn test
@@ -75,7 +75,7 @@ mvn test -DsuiteXmlFile=testng.xml
 ---
 
 ## 📊 Test Reports
-![Test Reports](https://raw.githubusercontent.com/rahmannazneen/magent-selenium-testng-pom/main/images/test-reports.png)
+
 - **TestNG Report:** Available in `target/surefire-reports`
 - **Extent Report:** Available in `target/extent-reports`
 
@@ -97,12 +97,3 @@ This project is licensed under the **MIT License**.
 
 ## 👩‍💻 Author
 [rahmannazneen](https://github.com/rahmannazneen)
-
----
-
-## 📸 Screenshots
-### Sample Test Execution
-![Test Execution Screenshot](https://raw.githubusercontent.com/rahmannazneen/magent-selenium-testng-pom/main/images/test-execution-screenshot.png)
-
-### Extent Report Example
-![Extent Report](https://raw.githubusercontent.com/rahmannazneen/magent-selenium-testng-pom/main/images/extent-report-example.png)
