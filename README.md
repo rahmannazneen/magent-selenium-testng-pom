@@ -81,9 +81,9 @@ mvn test -DsuiteXmlFile=testng.xml
 
 ---
 ## 🎯 Future Enhancements
-Add Parallel Execution support
-Integrate with CI/CD pipelines (Jenkins/GitHub Actions)
-Implement Cross-browser testing
+1. Add Parallel Execution support
+2. Integrate with CI/CD pipelines (Jenkins/GitHub Actions)
+3. Implement Cross-browser testing
 
 ---
 
